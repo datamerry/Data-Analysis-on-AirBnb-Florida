@@ -2,7 +2,7 @@
 
 https://public.tableau.com/profile/nikhita.g3492#!/
 
-Here are the questions I answered using the Datasets for Airbnb bookings,listings and reviews.
+Here are the questions I looked into using the Datasets for Airbnb Florida bookings,listings and reviews.
 
 What is the monetary value of booked listings on AirBnb(Florida)for the rest of 2019 and 2020 ? 
 
